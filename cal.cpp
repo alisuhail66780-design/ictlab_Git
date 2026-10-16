@@ -12,6 +12,7 @@ int main()
 	transactionamount = 75.5;
 	accountTitle = 'D';
 	cout << "size of int" << sizeof(accountPin) << "bytes" << endl;
+       /*Displays size of a decimal variabl.*/
 	cout << "size of float" << sizeof(totalamount) << "bytes" << endl;
 	cout << "size of double" << sizeof(transactionamount) << "bytes" << endl;
 	cout << "size of char" << sizeof(accountTitle) << "bytes" << "\n";
