@@ -1,7 +1,7 @@
 #Project to display memory size of datatypes
 ## Purpose
  A simple C== program to check memory size of datatypes.
-##How to run teh program
+##How to run the program
 Compile using Visual studio and then run the executable.
 ##Example input/output
 Input:Datatypes, variables and values assigned to variables.
