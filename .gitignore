@@ -1,0 +1,6 @@
+# C++ compiled files / Visual Studio files
+*.exe
+*.obj
+.vs/
+x64/
+Debug/
